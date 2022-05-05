@@ -1,0 +1,20 @@
+C:\Users\Dylan\Documents\CIT195\Data Binding\Data Binding\bin\Debug\netcoreapp3.1\Data Binding.exe
+C:\Users\Dylan\Documents\CIT195\Data Binding\Data Binding\bin\Debug\netcoreapp3.1\Data Binding.deps.json
+C:\Users\Dylan\Documents\CIT195\Data Binding\Data Binding\bin\Debug\netcoreapp3.1\Data Binding.runtimeconfig.json
+C:\Users\Dylan\Documents\CIT195\Data Binding\Data Binding\bin\Debug\netcoreapp3.1\Data Binding.runtimeconfig.dev.json
+C:\Users\Dylan\Documents\CIT195\Data Binding\Data Binding\bin\Debug\netcoreapp3.1\Data Binding.dll
+C:\Users\Dylan\Documents\CIT195\Data Binding\Data Binding\bin\Debug\netcoreapp3.1\Data Binding.pdb
+C:\Users\Dylan\Documents\CIT195\Data Binding\Data Binding\obj\Debug\netcoreapp3.1\Data Binding.csproj.AssemblyReference.cache
+C:\Users\Dylan\Documents\CIT195\Data Binding\Data Binding\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Dylan\Documents\CIT195\Data Binding\Data Binding\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Dylan\Documents\CIT195\Data Binding\Data Binding\obj\Debug\netcoreapp3.1\Data Binding_MarkupCompile.cache
+C:\Users\Dylan\Documents\CIT195\Data Binding\Data Binding\obj\Debug\netcoreapp3.1\Data Binding_MarkupCompile.lref
+C:\Users\Dylan\Documents\CIT195\Data Binding\Data Binding\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Dylan\Documents\CIT195\Data Binding\Data Binding\obj\Debug\netcoreapp3.1\Data Binding.g.resources
+C:\Users\Dylan\Documents\CIT195\Data Binding\Data Binding\obj\Debug\netcoreapp3.1\Data Binding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dylan\Documents\CIT195\Data Binding\Data Binding\obj\Debug\netcoreapp3.1\Data Binding.AssemblyInfoInputs.cache
+C:\Users\Dylan\Documents\CIT195\Data Binding\Data Binding\obj\Debug\netcoreapp3.1\Data Binding.AssemblyInfo.cs
+C:\Users\Dylan\Documents\CIT195\Data Binding\Data Binding\obj\Debug\netcoreapp3.1\Data Binding.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Documents\CIT195\Data Binding\Data Binding\obj\Debug\netcoreapp3.1\Data Binding.dll
+C:\Users\Dylan\Documents\CIT195\Data Binding\Data Binding\obj\Debug\netcoreapp3.1\Data Binding.pdb
+C:\Users\Dylan\Documents\CIT195\Data Binding\Data Binding\obj\Debug\netcoreapp3.1\Data Binding.genruntimeconfig.cache
